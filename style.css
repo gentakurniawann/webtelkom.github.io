@@ -1,0 +1,85 @@
+.nav-item{
+    font-family: 'Nunito Sans', sans-serif;
+}
+.main{
+    background-image: url(./BahanWebsiteTelkom/backgound-atas.png);
+    background-repeat: no-repeat;
+    background-size: 90%;
+}
+.main img{
+    margin: 10px 100px 75px 50px;
+}
+.main h1{
+    font-size: 3rem;
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 600;
+    text-align: left;
+}
+.btn1{
+    height: 45px;
+    width: 35%;
+    border: none;
+    outline: none;
+    background-color: #e04e4e;
+    color: #ffffff;
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 600;
+    border-radius: 60px;
+}
+
+.tentang{
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.program{
+    font-family: 'Nunito Sans', sans-serif;
+    background-color: #e04e4e;
+    color: #ffffff;
+}
+.hrstelkom{
+    font-family: 'Nunito Sans', sans-serif;
+}
+.linghrstel{
+    display: inline-block;
+    border-radius: 50%;
+    width: 70px;
+    margin: auto;
+    height: 70px;
+    color:#ffffff;
+    background-color: #e46565;
+}
+.biru{
+    color:#ffffff;
+    background-color: #4298e9;
+}
+.kuning{
+    color:#ffffff;
+    background-color: #e6e94e;
+}
+.abu2{
+    color:#ffffff;
+    background-color: #646464;
+}
+.linghrstel i{
+    position: relative;
+    top: 20px;
+}
+.lingkaran{
+    display: inline-block;
+    border-radius: 50%;
+    width: 150px;
+    margin: auto;
+    height: 150px;
+    color:#ffffff;
+    background-color: #e46565;
+}
+.lingkaran i{
+    position: relative;
+    top: 30px;
+}
+.kontak{
+    font-family: 'Nunito Sans', sans-serif;
+    background-image: url(./BahanWebsiteTelkom/bg-1-01.png);
+    background-size: cover;
+    color: #ffffff;
+}
